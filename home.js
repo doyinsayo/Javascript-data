@@ -1,8 +1,8 @@
-var name = 'Doyinsayo'
-console.log(name);
+var name = prompt("What is your name ?")
+alert(name);
 
-var height = "180cm"
-console.log(height);
+var height = prompt("What is your height ?")
+alert(height);
 
-var country = 'Nigeria'
-console.log(country);
+var country = prompt("What is your country ?")
+alert(country);
